@@ -1,5 +1,14 @@
 # Correction - site web hour of code
 
-### Rappel
+## Getting Started
 
-Avant de lancer le site "correction" dans votre navigateur vous devez télécharger le projet en cliquant sur le bouton vert "Clone or Download"
+1- Cliquer sur le bouton vert "Clone or download" et sur "Download ZIP" pour récupérer le projet HTML
+
+2- Extraire le zip et stocker le projet sur votre bureau (IMPORTANT) 
+
+## Lancement du site "correction"
+
+Après avoir extrait le projet sur votre bureau, vous pouvez lancer le site "correction" en faisant un clique droit sur le fichier index.html et cliquer sur "ouvrir avec" en choisissant ensuite votre navigateur web préféré (ex : google chrome, firefox, internet explorer).
+
+Nécessitez pas à modifier les fichiers du projet pour interpréter le résultat dans le navigateur. Cela est une bonne façon de s'améliorer dans le développement web :)
+
