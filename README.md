@@ -10,5 +10,5 @@
 
 Après avoir extrait le projet sur votre bureau, vous pouvez lancer le site "correction" en faisant un clique droit sur le fichier index.html et cliquer sur "ouvrir avec" en choisissant ensuite votre navigateur web préféré (ex : google chrome, firefox, internet explorer).
 
-Nécessitez pas à modifier les fichiers du projet pour interpréter le résultat dans le navigateur. Cela est une bonne façon de s'améliorer dans le développement web :)
+Nécessitez pas à modifier les fichiers du projet pour interpréter le résultat dans le navigateur. C'est une bonne façon pour s'améliorer dans le développement web :)
 
